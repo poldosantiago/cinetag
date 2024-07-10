@@ -1,0 +1,11 @@
+.rodape{
+    background-color: var(--cor-preto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding: 10rem; */
+}
+
+.paragrafo{
+    color: var(--cor-branco);
+}
